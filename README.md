@@ -17,7 +17,7 @@ This project demonstrates how to integrate:
 ## 📺 Demo Video
 
 > 📺 Check out a quick demonstration of the application in action:
-> \[Insert video link here]
+> \[[Insert video link here](https://github.com/AbelPriyakumarP/MultiModel-Sentiment-Analysis/blob/574edf5f6fb5cd6a3b3e7c3f47e79ddfa731caad/mulitmodel%20sentiment-analysis.mp4)]
 
 ---
 
