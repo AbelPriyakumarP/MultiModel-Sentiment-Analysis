@@ -94,7 +94,7 @@ This project demonstrates how to integrate:
 
 If you're passionate about **Generative AI, LangChain, LLMs, or Multimodal Agents**, feel free to connect:
 
-* 📱 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abel-priyakumar-p/))
+* 📱 [LinkedIn][https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abel-priyakumar-p/)
 
 ---
 
