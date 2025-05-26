@@ -14,10 +14,10 @@ This project demonstrates how to integrate:
 
 ---
 
-## 📺  Video
+## 📺  Image
 
 > 📺 Check out a quick demonstration of the application in action:
-> [[Video](https://github.com/AbelPriyakumarP/MultiModel-Sentiment-Analysis/blob/574edf5f6fb5cd6a3b3e7c3f47e79ddfa731caad/mulitmodel%20sentiment-analysis.mp4)]
+> ![Image alt](https://github.com/AbelPriyakumarP/MultiModel-Sentiment-Analysis/blob/b1184a59c2ace764b9f5a09e027877d3439d192e/sentiment_analysis.png)
 
 ---
 
